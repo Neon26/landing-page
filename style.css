@@ -1,0 +1,35 @@
+* {
+    border: 2px solid red;
+}
+
+
+Header {
+    background-color: #1f2937;
+    display:flex;    
+}
+
+#first{
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+#second{
+    
+}
+
+#third{
+    background-color: #e5e7eb;
+}
+#fourth{
+    background-color: #3882f6;
+    color: #f9faf8;
+}
+  
+Footer{
+    background-color: #1f2937;
+    color: #f9faf8;
+} 
+
+
+
+
